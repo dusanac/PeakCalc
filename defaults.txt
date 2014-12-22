@@ -1,0 +1,9 @@
+DIR=C:/peakCalc/data
+mz21s=20.8999996
+mz21e=21.1100006
+mz37s=36.95
+mz37e=37.20
+mz55s=54.97
+mz55e=55.20
+mzAnalyte_s=137.00
+mzAnalyte_e=137.53
